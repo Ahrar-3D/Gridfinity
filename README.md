@@ -16,8 +16,6 @@ Drawer Organizer
 - Interlocking mechanism to adjacent container
     - Inbuilt into container if possible without connector
 
-## Issues
-- Nothing??
 
 ## Observations
 ### Gridfinity Base
@@ -28,7 +26,13 @@ Drawer Organizer
 
 ### Container
 - Printing takes too long
-    - 3 Hrs for Hard Disk & Debutring tool print
+    - 3 Hrs for Hard Disk & Deburring tool print
+- Uneven surface for supports
+    - Container not seated flush with base
+- Defect on seam line like dots of missing material
+- Space for deburring tool miscalculated, tool doesn't fit into the 1x1 base
+    - Using it for bedscrapers instead
+- Supports too hard to remove while also leaving bad surface finish
 
 ## Future Scope
 ### Gridfinity Base
