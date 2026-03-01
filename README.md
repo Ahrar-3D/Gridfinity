@@ -23,7 +23,12 @@ Drawer Organizer
 ### Gridfinity Base
 - Base feels sturdy
 - Consumed 55g PLA with 2h 10min of print time
+    - Could've gone down on infill & wall loops
 - Edges seem to get squished on the base layer
+
+### Container
+- Printing takes too long
+    - 3 Hrs for Hard Disk & Debutring tool print
 
 ## Future Scope
 ### Gridfinity Base
@@ -35,3 +40,4 @@ Drawer Organizer
 ### Container
 - Stress concentration safe design at base
 - Support-less printing to be enabled
+- Scope for optimising print duration 
