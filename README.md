@@ -1,6 +1,8 @@
 # Gridfinity
+<img src="3D Print Captures/Containers 3D Printed.jpg" width="500">
 <img src="3D Print Captures/Containers Populated.jpg" width="500">
-Endlessly expandable base grid with customized containers for organization
+Endlessly expandable base grid with customized containers for organization  
+
 ## Planning
 ### Container Items
 - Hard Disks * 3 ✅
